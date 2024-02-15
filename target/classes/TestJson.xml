@@ -1,0 +1,34 @@
+<ObjectNode>
+    <root>
+        <employees>
+            <name>John</name>
+            <age>30</age>
+            <skills>Java</skills>
+            <skills>Python</skills>
+            <skills>JavaScript</skills>
+            <projects>
+                <name>Project 1</name>
+                <duration>6 months</duration>
+            </projects>
+            <projects>
+                <name>Project 2</name>
+                <duration>1 year</duration>
+            </projects>
+        </employees>
+        <employees>
+            <name>Jane</name>
+            <age>25</age>
+            <skills>C++</skills>
+            <skills>Python</skills>
+            <skills>JavaScript</skills>
+            <projects>
+                <name>Project 3</name>
+                <duration>3 months</duration>
+            </projects>
+            <projects>
+                <name>Project 4</name>
+                <duration>2 years</duration>
+            </projects>
+        </employees>
+    </root>
+</ObjectNode>
